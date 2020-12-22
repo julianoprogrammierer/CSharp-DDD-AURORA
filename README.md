@@ -103,4 +103,6 @@ For more information, look this [link](https://www.hipercultura.com/fenomenos-na
 See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index.html).
 
 ## About:
+
+this project is part of learning the Digital Innovation One Bootcamp [Juliano Roberto](https://www.linkedin.com/in/julianoprogrammierer/).
 The Aurora project was developed by [Alex Alves](https://www.linkedin.com/in/alexalvess/).
